@@ -1,0 +1,12 @@
+{
+  "name": "frame-export",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mrice32/frame-export.git",
+  "author": "Matt Rice <matthewcrice32@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "hdkey": "^2.1.0",
+    "readline": "^1.3.0"
+  }
+}
